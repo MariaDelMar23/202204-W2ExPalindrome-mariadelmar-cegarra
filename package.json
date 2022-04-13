@@ -1,0 +1,23 @@
+{
+  "name": "202204-w2expalindrome-mariadelmar-cegarra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "palindrome.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaDelMar23/202204-W2ExPalindrome-mariadelmar-cegarra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaDelMar23/202204-W2ExPalindrome-mariadelmar-cegarra/issues"
+  },
+  "homepage": "https://github.com/MariaDelMar23/202204-W2ExPalindrome-mariadelmar-cegarra#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
